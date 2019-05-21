@@ -1,0 +1,11 @@
+LOCUS       New_DNA                   20 bp ds-DNA     linear       25-MAR-2019
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+ORIGIN
+        1 CTCACACGAA CAACCTGTCG    
+//

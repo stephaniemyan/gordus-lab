@@ -1,0 +1,47 @@
+LOCUS       New_DNA                  240 bp ds-DNA     linear       25-MAR-2019
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    1..35
+                     /locus_tag="prg-1 homology arm 1"
+                     /label="prg-1 homology arm 1"
+                     /ApEinfo_label="prg-1 homology arm 1"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    198..240
+                     /locus_tag="prg-1 homology arm 2"
+                     /label="prg-1 homology arm 2"
+                     /ApEinfo_label="prg-1 homology arm 2"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    36..167
+                     /locus_tag="AID tag"
+                     /label="AID tag"
+                     /ApEinfo_label="AID tag"
+                     /ApEinfo_fwdcolor="#ff40ff"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    168..197
+                     /locus_tag="glycine linker"
+                     /label="glycine linker"
+                     /ApEinfo_label="glycine linker"
+                     /ApEinfo_fwdcolor="#ff9200"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 ttattgtttt ctataatatt tttcaggtaa taATGcctaa agatccagcc aaacctccgg
+       61 ccaaggcaca agttgtggga tggccaccgg tgagatcata ccggaagaac gtgatggttt
+      121 cctgccaaaa atcaagcggt ggcccggagg cggcggcgtt cgtgaaggga ggaggaggat
+      181 ctggaggagg aggatctGCA TCTGGAAGTG cTCGCGGGAG AGGCCGTGGT TCAGGATCGA
+//
